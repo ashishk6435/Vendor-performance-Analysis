@@ -16,7 +16,6 @@ Procurement and inventory decisions were being made **without a consolidated, da
 ## 🎯 Project Objectives
 - Evaluate vendor performance using **sales, purchase cost, profit margin, and inventory efficiency**
 - Identify **top-performing and low-performing vendors**
-- Detect **vendor concentration risk** using Pareto analysis
 - Identify **low-sales but high-margin brands** for pricing or promotional optimization
 - Highlight **unsold inventory and slow-moving stock risks**
 - Provide **actionable business recommendations** for procurement and management
