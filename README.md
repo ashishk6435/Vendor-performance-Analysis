@@ -112,7 +112,7 @@ Bulk purchasing can improve margins if aligned with actual sales demand.
 - Low-performing vendors identification
 - Inventory risk analysis
 
-The dashboard enables **data-driven procurement and strategic decisions**.
+
 
 ---
 
@@ -130,16 +130,6 @@ The dashboard enables **data-driven procurement and strategic decisions**.
 ## 🛠 Tools & Technologies
 - **Python**: Pandas, Matplotlib, Seaborn (EDA & analysis)
 - **Power BI**: Interactive dashboards & reporting
-- **Analytical Techniques**: Pareto analysis, vendor segmentation, performance scoring
+- **Analytical Techniques**: vendor segmentation, performance scoring
 
----
 
-## 🧠 Key Takeaway
-A small subset of vendors drives most purchases, while several vendors and brands erode margins and lock capital.  
-By shifting focus from revenue to **profitability, efficiency, and risk**, the business can significantly improve long-term performance.
-
----
-
-## 📌 Author
-**Ashish**  
-Aspiring Data Analyst | SQL • Python • Power BI
