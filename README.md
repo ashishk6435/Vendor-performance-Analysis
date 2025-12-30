@@ -51,6 +51,11 @@ Procurement and inventory decisions were being made **without a consolidated, da
 - Purchase and sales prices show **significant right-skew**, indicating premium products
 - Freight cost varies widely, suggesting **logistics inefficiencies**
 - Stock turnover ranges from **0 to 274**, highlighting uneven inventory movement
+  <p align="center">
+  <img src="Images/outliers.png" width="800"/>
+</p>
+
+<p align="center"><i>EDA</i></p>
 
 ### Correlation Insights
 - Purchase quantity vs sales quantity shows **very strong correlation (0.999)**
