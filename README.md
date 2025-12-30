@@ -61,7 +61,11 @@ Procurement and inventory decisions were being made **without a consolidated, da
 - Purchase quantity vs sales quantity shows **very strong correlation (0.999)**
 - Profit margin shows **weak correlation** with sales price and stock turnover
 - Faster inventory turnover does **not necessarily translate to higher margins**
+  <p align="center">
+  <img src="Images/correlation-heatmap.png" width="800"/>
+</p>
 
+<p align="center"><i>EDA</i></p>
 --- 
 <p align="center">
   <img src="Images/img1.png" width="800"/>
