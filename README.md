@@ -67,7 +67,9 @@ Procurement and inventory decisions were being made **without a consolidated, da
 
 <p align="center"><i>Correlation-Analysis</i></p>
 --- 
+
 ---
+
 <p align="center">
   <img src="Images/img1.png" width="800"/>
 </p>
