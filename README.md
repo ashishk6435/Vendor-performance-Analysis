@@ -73,7 +73,12 @@ High dependency on a small vendor group increases **supply-chain and negotiation
 
 ---
 
+<p align="center">
+  <img src="
+Images/img2.png " width="800"/>
+</p>
 
+<p align="center">
 
 ---
 
