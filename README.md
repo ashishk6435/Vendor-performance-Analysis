@@ -65,8 +65,9 @@ Procurement and inventory decisions were being made **without a consolidated, da
   <img src="Images/correlation-heatmap.png" width="800"/>
 </p>
 
-<p align="center"><i>EDA</i></p>
+<p align="center"><i>Correlation-Analysis</i></p>
 --- 
+---
 <p align="center">
   <img src="Images/img1.png" width="800"/>
 </p>
