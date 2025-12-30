@@ -54,11 +54,17 @@ Procurement and inventory decisions were being made **without a consolidated, da
 - Profit margin shows **weak correlation** with sales price and stock turnover
 - Faster inventory turnover does **not necessarily translate to higher margins**
 
----
+--- 
+<p align="center">
+  <img src="images/dashboard_overview.png" width="800"/>
+</p>
+
+<p align="center"><i>Vendor Performance Dashboard – Executive Overview</i></p>
+
 
 ## 📈 Key Analytical Insights
 
-### 1️⃣ Vendor Concentration Risk (Pareto Analysis)
+### 1️⃣ Vendor Concentration Risk 
 - **Top 10 vendors contribute ~65.7% of total purchase value**
 - Remaining vendors contribute only ~34.3%
 
@@ -67,12 +73,7 @@ High dependency on a small vendor group increases **supply-chain and negotiation
 
 ---
 
-### 2️⃣ Sales ≠ Profitability
-- Vendors ranking high in sales do not always rank high in profit
-- High revenue does not guarantee value creation
 
-**Impact**:  
-Procurement decisions based only on sales volume can **erode margins**.
 
 ---
 
