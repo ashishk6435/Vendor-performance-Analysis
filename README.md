@@ -56,7 +56,7 @@ Procurement and inventory decisions were being made **without a consolidated, da
 
 --- 
 <p align="center">
-  <img src="images/dashboard_overview.png" width="800"/>
+  <img src="Images/img1.png" width="800"/>
 </p>
 
 <p align="center"><i>Vendor Performance Dashboard – Executive Overview</i></p>
