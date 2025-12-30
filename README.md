@@ -35,7 +35,11 @@ Procurement and inventory decisions were being made **without a consolidated, da
   → Analysis is **cross-sectional**, not trend-based
 
 ---
+<p align="center">
+  <img src="Images/EDA.png" width="800"/>
+</p>
 
+<p align="center"><i>EDA</i></p>
 ## 🔬 Exploratory Data Analysis (EDA) – Key Findings
 
 ### Data Quality & Distribution
